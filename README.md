@@ -1,5 +1,5 @@
 # Easy-Web-Chat
-A MySQL/PHP Web Chat!
+A MySQL/PHP Web Chat! With Login and Register System                                                           
 Demo of the Chat -> [Here](http://server.marlon9757.de)
 
 Setup:
