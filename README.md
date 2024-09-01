@@ -49,10 +49,10 @@ ______________________________________________________________________
 
 3.1 Download the Files from the Github Page
 
-3.2 Paste the Files to:
-    C:\xampp\htdocs
-    or
-    the htdocs folder on Apache
+3.2 Paste the Files to:                                                           
+    C:\xampp\htdocs                                                           
+    or                                                           
+    the htdocs folder on Apache                                                           
 ______________________________________________________________________
 *4.Port forwarding*
 
