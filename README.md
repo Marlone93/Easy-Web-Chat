@@ -7,7 +7,7 @@ ______________________________________________________________________
 *1.Install needed Applications*
 
 1.1 Easiest Method
-    Install [Xammp](https://www.apachefriends.org/de/index.html)
+    Install [Xammp](https://www.apachefriends.org/de/index.html)                                                           
     or                                                           
     Install Apache                                                           
     Install Php                                                           
