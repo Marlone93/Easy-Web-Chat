@@ -9,10 +9,10 @@ ______________________________________________________________________
 1.1 Easiest Method
     Install [Xammp](https://www.apachefriends.org/de/index.html)
     or                                                           
-    Install Apache
-    Install Php
-    Install MySQL
-    Install PhpMyAdmin
+    Install Apache                                                           
+    Install Php                                                           
+    Install MySQL                                                           
+    Install PhpMyAdmin                                                           
 
 1.2 Launch all the needet Modules
 ______________________________________________________________________
