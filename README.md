@@ -45,14 +45,12 @@ then Click "OK"
 ______________________________________________________________________
 *3.Setup the Website*
 
-3.1 Download the htdocs folder from the Github Page
+3.1 Download the htdocs.zip from the Github Page
 
-3.2 Paste the Contents
-    On Default installation go to: C:\xampp\htdocs
+3.2 Extract the File to:
+    C:\xampp\htdocs
     or
     the htdocs folder on Apache
-    then
-    paste the Contents from the Download
 ______________________________________________________________________
 *4.Port forwarding*
 
