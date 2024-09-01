@@ -28,12 +28,12 @@ ______________________________________________________________________
 
 2.3 Add Tables
      Click on the Created "chat_db" and paste:
+     
      CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL
     );
-and
     CREATE TABLE messages (
         id INT AUTO_INCREMENT PRIMARY KEY,
         user_id INT,
@@ -41,6 +41,7 @@ and
         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         FOREIGN KEY (user_id) REFERENCES users(id)
     );
+    
 then Click "OK"
 ______________________________________________________________________
 *3.Setup the Website*
