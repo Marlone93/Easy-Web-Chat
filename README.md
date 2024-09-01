@@ -23,6 +23,7 @@ ______________________________________________________________________
     (if installed separately -> Open phpMyAdmin)
 
 2.2 Click on "SQL" and paste:
+
      CREATE DATABASE chat_db;
      USE chat_db;
 
