@@ -49,7 +49,7 @@ ______________________________________________________________________
 
 3.1 Download the Files from the Github Page
 
-3.2 Paste the Files to:                                                           
+3.2 Paste the Files or Extract the .zip to:                                                      
     C:\xampp\htdocs                                                           
     or                                                           
     the htdocs folder on Apache                                                           
