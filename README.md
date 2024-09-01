@@ -8,7 +8,7 @@ ______________________________________________________________________
 
 1.1 Easiest Method
     Install [Xammp](https://www.apachefriends.org/de/index.html)
-    or
+    or                                                           
     Install Apache
     Install Php
     Install MySQL
