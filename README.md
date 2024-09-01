@@ -47,9 +47,9 @@ then Click "OK"
 ______________________________________________________________________
 *3.Setup the Website*
 
-3.1 Download the htdocs.zip from the Github Page
+3.1 Download the Files from the Github Page
 
-3.2 Extract the File to:
+3.2 Paste the Files to:
     C:\xampp\htdocs
     or
     the htdocs folder on Apache
