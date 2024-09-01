@@ -1,0 +1,180 @@
+/* Grundlegende Stile für den gesamten Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container für das Layout */
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Stile für das Header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #007bff;
+}
+
+/* Stile für den Hauptbereich */
+main {
+    text-align: center;
+}
+
+.intro {
+    margin-bottom: 20px;
+}
+
+.intro h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.intro p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Stile für die Aktion-Buttons */
+.actions {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1.1em;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Stile für den Footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #777;
+}
+
+/* Responsivität */
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+
+    .button {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+    }
+}
+/* Grundlegende Stile für den gesamten Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container für Formulare und Chat */
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Formular-Stile */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"],
+button {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+button:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+}
+
+button,
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Stile für den Chatbereich */
+#chat {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #fafafa;
+    margin-bottom: 20px;
+}
+
+#chat p {
+    padding: 5px;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+}
+
+#chat p:last-child {
+    border-bottom: none;
+}
+
+/* Responsivität */
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+}
