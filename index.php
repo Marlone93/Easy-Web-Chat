@@ -20,7 +20,7 @@
             </div>
         </main>
         <footer>
-            <p>&copy; <?php echo date("Y"); ?> The Chat System.</p>
+            <p>&copy; <?php echo date("Y"); ?> The Chat System form Marlon9757.</p>
         </footer>
     </div>
 </body>
