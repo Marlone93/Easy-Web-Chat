@@ -1,4 +1,4 @@
-/* Grundlegende Stile für den gesamten Body */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 
-/* Container für das Layout */
+
 .container {
     width: 80%;
     max-width: 900px;
@@ -18,7 +18,7 @@ body {
     border-radius: 8px;
 }
 
-/* Stile für das Header */
+
 header {
     text-align: center;
     margin-bottom: 20px;
@@ -30,7 +30,7 @@ header h1 {
     color: #007bff;
 }
 
-/* Stile für den Hauptbereich */
+
 main {
     text-align: center;
 }
@@ -49,7 +49,7 @@ main {
     color: #555;
 }
 
-/* Stile für die Aktion-Buttons */
+
 .actions {
     margin-top: 20px;
 }
@@ -70,7 +70,7 @@ main {
     background-color: #0056b3;
 }
 
-/* Stile für den Footer */
+
 footer {
     text-align: center;
     margin-top: 20px;
@@ -78,7 +78,7 @@ footer {
     color: #777;
 }
 
-/* Responsivität */
+
 @media (max-width: 600px) {
     .container {
         width: 95%;
@@ -90,7 +90,7 @@ footer {
         margin: 10px 0;
     }
 }
-/* Grundlegende Stile für den gesamten Body */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -99,7 +99,7 @@ body {
     color: #333;
 }
 
-/* Container für Formulare und Chat */
+
 .container {
     width: 80%;
     max-width: 800px;
@@ -110,7 +110,7 @@ body {
     border-radius: 8px;
 }
 
-/* Formular-Stile */
+
 form {
     display: flex;
     flex-direction: column;
@@ -151,7 +151,7 @@ input[type="submit"]:hover {
     background-color: #0056b3;
 }
 
-/* Stile für den Chatbereich */
+
 #chat {
     max-height: 400px;
     overflow-y: auto;
@@ -172,7 +172,7 @@ input[type="submit"]:hover {
     border-bottom: none;
 }
 
-/* Responsivität */
+
 @media (max-width: 600px) {
     .container {
         width: 95%;
