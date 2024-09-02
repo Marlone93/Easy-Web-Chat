@@ -49,7 +49,7 @@ ______________________________________________________________________
 
 3.1 Download the Files from the Github Page
 
-3.2 Paste the Files or Extract the .zip to:                                                      
+3.2 Paste the Files to:                                                      
     C:\xampp\htdocs                                                           
     or                                                           
     the htdocs folder on Apache                                                           
@@ -60,4 +60,7 @@ Forward the Port 80 to your PC
 ______________________________________________________________________
 
 That's it!
-This Tutorial is for Windows it'll work on Linux but not the same way.
+This Tutorial is for Windows it'll work on Linux but not the same way.                                                                           
+I'm not sure how exactly the setup works with installing everything                                                                             
+separately. I'd recommend using [Xammp](https://www.apachefriends.org/de/index.html)
+
