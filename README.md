@@ -64,3 +64,7 @@ This Tutorial is for Windows it'll work on Linux but not the same way.
 I'm not sure how exactly the setup works with installing everything                                                                             
 separately. I'd recommend using [Xammp](https://www.apachefriends.org/de/index.html)
 
+Disclaimer: I'm not responsible for everything that is done with the code
+
+-> Go to [marlon9757.de](https://marlon9757.de)
+
