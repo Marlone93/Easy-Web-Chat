@@ -14,7 +14,7 @@ ______________________________________________________________________
     Install MySQL                                                           
     Install PhpMyAdmin                                                           
 
-1.2 Launch all the needet Modules
+1.2 Launch all the needed Modules
 ______________________________________________________________________
 *2.Setup the Database*
 
